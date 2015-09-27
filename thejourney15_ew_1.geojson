@@ -1,0 +1,3533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 1,
+        "award": " Design Award",
+        "year": 2010,
+        "tags": "#Transport #Public realm # Urban renewal",
+        "project": "St Kilda Foreshore Connections",
+        "address": " ",
+        "designer": "TRACT Consultants",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.865806,144.972815",
+        "client": "City of Port Phillip",
+        "contractor": "2construct Pty Ltd",
+        "description": " An elegant and functional approach to what was a confusing and complex traffic-dominated location. It avoids the pitfalls of heavy-handed design response, opting rather for simplicity and 'cleansing' of spacee.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972815,
+          -37.865806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 2,
+        "award": " Design Award",
+        "year": 2010,
+        "tags": "Playground",
+        "project": "Fawkner Park Toddler Play",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.841305,144.982152",
+        "client": "Urban Parks Design - City of Melbourne",
+        "contractor": "Grounds and Gardens",
+        "description": " An elegant, refined and poetic piece of design that demonstrates a true sensitivity to its subject matter and site. The designer has managed a subtelty and restraint which allows an unfolding of story through exploration and play. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.982152,
+          -37.841305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 3,
+        "award": " Design Award",
+        "year": 2010,
+        "tags": "#Transport ",
+        "project": "Eastlink",
+        "address": " ",
+        "designer": "TRACT Consultants",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.9536226,145.2030085",
+        "client": "Connect East",
+        "contractor": "Thiess John Holland",
+        "description": " A sweeping, complex matrix of design, ecologies and community amenity, achieved on the back of a major piece of vehicle infrastructure.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2030085,
+          -37.9536226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 4,
+        "award": " Design Award",
+        "year": 2010,
+        "tags": "Waterfront",
+        "project": "Frankilin Wharf Improvements",
+        "address": " ",
+        "designer": "OCULUS",
+        "googlemap_marker": "http://maps.google.com/maps?q=-42.883057,147.333542",
+        "client": "Sullivan's Cove Waterfront Authority",
+        "contractor": "",
+        "description": " A direct and interventionist approach set within the working and active wharf area. A series of poetic and pragmatic interventions, responding to qualities of place - its history, its sometimes solitary nature- its very public character, its speed. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.333542,
+          -42.883057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 5,
+        "award": " Urban Design Award",
+        "year": 2010,
+        "tags": "Transport",
+        "project": "Broadmeadows Main Street, Essendon",
+        "address": " ",
+        "designer": "Outlines Landscape Architecture",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.6815336,144.9177555",
+        "client": " Hume City Council, Department of Planning and Community Development, Department of Education and Early Childhood Development, GBA, Melbourne Water",
+        "contractor": "J A Dodd",
+        "description": " A true urban design outcome, providing a framework for future opportunity. This projects composition of kerb and no kerb arrangements, its visible water sensitive urban design, accessible pavements, and open ended gestures toward adjacent sites makes provision for significant integration and public realm opportunities in the future. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9177555,
+          -37.6815336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 6,
+        "award": " Urban Design Award",
+        "year": 2010,
+        "tags": "Community Park",
+        "project": "Ardeer Community Playground",
+        "address": " ",
+        "designer": "Mary Jeavons Landscape Architects",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.782761,144.806106",
+        "client": " Ardeer Community Group, City of Brimbank",
+        "contractor": "Arena Gardens",
+        "description": " An exemplar of community and professionals working together to achieve a celebrated outcome. The Ardeer Playground reaffirms the connection between past, play and social engagement, and demonstrates the important anchor position that playgrounds can occupy in forming community. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.806106,
+          -37.782761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 7,
+        "award": " Planning Awards",
+        "year": 2010,
+        "tags": "Public space, Park",
+        "project": "Box Hill Gardens Master Plan",
+        "address": " ",
+        "designer": "Site Office",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.81458,145.122083",
+        "client": "City of Whitehorse",
+        "contractor": "",
+        "description": "A high quality exploration of the (sub)urban park and promotes to the community the formal potentials of the park. An elegant and highly evocative document which will no doubt ensure continued commitment by the client.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.122083,
+          -37.81458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 8,
+        "award": " Land Management Award",
+        "year": 2010,
+        "tags": "Waterway",
+        "project": "Lollipop Creek",
+        "address": " ",
+        "designer": "Fitzgerald Frisby Landscape Architecture",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.96731,144.5942949",
+        "client": "Devine Communities",
+        "contractor": "Gagin and Streetscapes",
+        "description": " Lollipop Creek demonstrates that a very 'Melbourne' landscape can be incorporated into the hearts and minds of the suburb, and that indigenous landscapes can be managed and maintained in this city typology. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5942949,
+          -37.96731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 9,
+        "award": " Land Management Award",
+        "year": 2010,
+        "tags": "Inner city park",
+        "project": "Royal Park",
+        "address": "Flemington Road, Parkville VIC 3052",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.782119,144.943623",
+        "client": "City of Melbourne",
+        "contractor": "",
+        "description": "Royal Park is Melbourne's largest inner city park. As a landscape Royal Park expresses the true nature of Australia and the special qualities of its natural sense of place and undelies a design ethos which our profession now promotes and respects. AILA commends Melbourne City Council for the vision and stewardship of Royal Park that has been pivotal in the emergence of a local landscape consciousness and embracing appreciation of the indigenous environment.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.943623,
+          -37.782119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 10,
+        "award": " Design Award",
+        "year": 2011,
+        "tags": "Commercial property,  urban landscape",
+        "project": "717 Bourke Street Melbourne",
+        "address": "717 Bourke Street, Docklands, Melbourne, VIC 3008",
+        "designer": "ASPECT Studios",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8183314,144.9499919",
+        "client": "Probuild Constructions (AUST) Pty Ltd",
+        "contractor": "",
+        "description": " The landscape at 717 Bourke Street describes an urban landscape proposition that draws its contextual reference, material palette and design character from the City of Melbourne paradigms, overlaid with moments of difference. The design fills the interstitial space left over by the footprint of the surrounding buildings, and is informed by their facades. The landscape architects propose a ‘topographical carpet’, spreading outwards from building edges, blurring the interface between public and private, active and passive, building and landscape. The carpet is expressed as a geometric mosaic pattern of bluestone, granite, splitstone and seasoned hardwood that successfully shifts three dimensionally to form occupiable plinths, edges and platforms, and separating circulation from carefully oriented occupiable spaces. Indigenous copses of banksia and eucalypts, under planted with native grasses, provide a drought tolerant reference to the site history as the edge of a former swamp. This project is a successful detailed addition to the pedestrian grain of the docklands precinct. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9499919,
+          -37.8183314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 11,
+        "award": " Urban Design Award",
+        "year": 2011,
+        "tags": "Transport",
+        "project": "The Clifton Hill Rail",
+        "address": " ",
+        "designer": "Jeavons Landscape Architects",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.785357,144.995804",
+        "client": "Department of Transport",
+        "contractor": "",
+        "description": " The Clifton Hill Rail Project began as a key transport initiative to duplicate the railway track between Clifton Hill and Westgarth Stations. The result of which was an opportunity to deliver a landscape that stitched together the Merri Creek environs, a new rail bridge, pedestrian and cyclist needs and the local community. The result is a beautifully executed landscape which demonstrates the integral role that a landscape architect has in delivering a multi-dimensional project varying in scale, programs, stakeholders, and contexts. This project demonstrated sensitivity to social, cultural and physical contexts through an extensive consultation process with the community and various authorities. It also demonstrated the role of the landscape architect from the broad strategic scale to the detail resolution. The project focused on improved accessibility and community linkages but goes beyond a cycle routes and footpaths and creates a public space in an area that is generally forgotten. This is further developed through the use and treatment of the space under the bridge as a ‘Park.’",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.995804,
+          -37.785357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 12,
+        "award": " Urban Design Award",
+        "year": 2011,
+        "tags": "Campus ",
+        "project": "Monash University Museum of Art, Ian Potter Sculpture Court",
+        "address": " ",
+        "designer": "Simon Ellis Landscape Architect",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.877278,145.046159",
+        "client": "Monash University Museum of Art",
+        "contractor": "Kerstin Thompson Architects and Fiona Harrisson",
+        "description": " The Ian Potter Sculpture Court project transformed a former lifeless car park into a new exciting campus focus. The Court accommodates multiple roles and plays a part in the daily exchange of campus life and the internal program at the Monash University Musuem of Art. The jury was impressed with the clearly articulated design concept based on a series of layers operating at different scales - that of the campus, the site and the body.The elegant execution of the design with its clean lines and restraint and the integration of architecture and art produced a highly commendable outcome. Beautiful spaces invite for interaction and social benefits. The integration of existing trees, a rainwater garden and flexibility in the new planting gives this project good environmental credentials and resilience for the future. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.046159,
+          -37.877278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 13,
+        "award": " The Aila Victoria Medal For Landscape Architecture",
+        "year": 2012,
+        "tags": "Reserve, park",
+        "project": "Keast Park",
+        "address": " Nepean Highway, Seaford",
+        "designer": "Site Office",
+        "googlemap_marker": "http://maps.google.com/maps?q=-38.0861594,145.1241338",
+        "client": "City of Frankston",
+        "contractor": "",
+        "description": "Keast Park is a finely crafted project that sits firmly, yet gently in the landscape, marrying architecture and landscape to define the transition from coastal dune to the built environment.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1241338,
+          -38.0861594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 14,
+        "award": " Design Award",
+        "year": 2012,
+        "tags": "Revitalization, Open green space",
+        "project": "Victoria Park",
+        "address": "Lulie Street, Collingwood, Victoria",
+        "designer": "ASPECT Studios and AECOM",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.798033,144.996649",
+        "client": "City of Yarra",
+        "contractor": "ASPECT Studios, AECOM, Lovell Chen, Simpsons Construction, Duke Albada, Andrew Hunt, Futago, Eliza Greenhatch and Partners",
+        "description": " The redevelopment of Victoria Park represents the revitalization of much loved inner city infrastructure at a time when our communities are looking for new public space. Through an impressive combination of historical research and engagement with past stakeholders - including the Collingwood Football Club - a confident, creative strategy for its re-imagining has resulted in a contemporary public space that celebrates local cultural values through simple reinterpretation of existing elements. The project has transformed and made available to the public around 30,000sqm of open green space, including the clever restoration of important markers such as the ticket booth, and structure for the southern stand; reflected in new public gathering spaces for picnics, kicking a ball and enjoying time together. The quality and variety of new spaces demonstrates the central place for landscape architecture in crafting safe, unique and desirable places as well as the role for the landscape architect in translating cultural values into meaningful places for people. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.996649,
+          -37.798033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 15,
+        "award": " Design Award",
+        "year": 2012,
+        "tags": "Wetland, shared trail, playground",
+        "project": "Toomuc Creek",
+        "address": " ",
+        "designer": "Fitzgerald Frisby Landscape Architecture",
+        "googlemap_marker": "http://maps.google.com/maps?q=-38.0186253,145.4697366",
+        "client": "Devine Limited",
+        "contractor": " Louise Lavarack, BIOSIS Research, Cardno, Taylors",
+        "description": " The environment of Toomuc Creek has been transformed with the creation of a vibrant new green infrastructure belt on the edge of one of the Melbourne’s expanding growth corridors. This project challenged the delicate relationship between habitat and open space provision in a well-researched collaboration between landscape architects, ecologists, artists and engineers. New standards were set during the design process to further ecological and stormwater management practice. The design-led approach actively negotiates the tension between ecological systems and open space networks. The result translates complex technical requirements into high-quality design initiatives with a strong ecological underpinning. This includes the creation of habitat specifically for growling grass frogs, separate to wetlands linked to the stormwater treatment system and the open space system. A series of small scale interventions enrich the identity of the place and experience of users. This includes the abstract artwork ‘Ebb/Flow’ by artist Louise Lavarack that interprets the local hydrology. Other interventions include the secondary trail network that morph’s into a ‘kid’ scale BMX track, old bridge timbers that are reinvented as key pedestrian elements, and a truck turning-circle that houses a netball court in its spare time. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4697366,
+          -38.0186253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 16,
+        "award": " Design Award",
+        "year": 2012,
+        "tags": "Designed landscape",
+        "project": "Mona",
+        "address": "655 Main Rd, Berriedale TAS 7011",
+        "designer": "OCULUS",
+        "googlemap_marker": "http://maps.google.com/maps?q=-42.8121307,147.2608799",
+        "client": "MONA",
+        "contractor": " Fender Katsalidis Architects, Architecture, Felicetti, Structural Engineering Lincolne Scott, Lighting, Jonathan Hearn, Landscape Design & Construction Hansen Yuncken Pty Ltd, Construction, Gandy & Roberts, Civil Engineering",
+        "description": " Mediating between an existing topographically challenging site and a signature building that draws upon and extends modernist architectures at one with their landscape, Oculus has delivered a contemporary pleasure ground. These landscape sequences are simultaneously ‘grown’ from the site and draw from the museum of curiosity; visitors are given clues as to the varied experiences that await inside the buildings through a blend of humorous elements and elegantly detailed landscape structures. Informed by a highly engaged client, Oculus’ response evokes allegory and experiment, plays with familiar forms and provides active spaces for visitor experience of the inner landscape of the Museum complex while providing views over the Derwent River and cultural landscape of outer Hobart. Their skilful use of materials and planting regimes provide tangibly artful gardens alongside dynamic public pathways that work with the topographical and management challenges that an important public institution requires. The designed landscape provides multiple experiences for visitors through a deep understanding of the spatial sequences afforded by the site and by the curatorial possibilities offered by this most unique of museums, the MONA event. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2608799,
+          -42.8121307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 17,
+        "award": " Design Award",
+        "year": 2012,
+        "tags": "School, landscape",
+        "project": "Williamstown High School",
+        "address": "76 Pasco St, Williamstown VIC 3016",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.862917,144.894895",
+        "client": "Williamstown High School",
+        "contractor": " Spowers Architects, GHD",
+        "description": " This is a design for a sustainable school landscape, integrated with an adjacent conservation area that increases the school community's understanding of the local ecology.The site is adjacent to the ‘Jawbone’ marine reserve in Williamstown, and the design for each part of the school responds to the section of the dune system or coastal woodlands to which it belongs. This approach is evident in the plantings and landscaping treatments throughout the campus and the careful consideration of the flow of water. The students carry out their daily school life in a respectful indigenous landscape. The school incorporates a fresh water ecology program into the curriculum, and a nature trail educates visitors of the landscape's importance. In other parts of the campus are productive gardens and a nursery.The project is a model for an 'environmental education in school landscapes'.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.894895,
+          -37.862917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 18,
+        "award": " Urban Design Award- Excellence Award",
+        "year": 2012,
+        "tags": "Waterfront",
+        "project": "North Wharf Promenade And Silo Park",
+        "address": " ",
+        "designer": "Taylor Cullity Lethlean and Wraight + Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-36.8423034,174.7594272",
+        "client": "Waterfront Auckland",
+        "contractor": "",
+        "description": " Auckland's waterfront is reinvigorated with elegance and care. This sensitive collaboration with WA (Wellington NZ), respects the historical and remaining maritime industries of this harbour. The design seeks to bring the 'gritty' experiences of the working waterfront along with it as well as carefully introducing a new future of post-industrial landscapes. Gantries are retained and used as viewing platforms. Silos are also retained as viewing towers and projection screens. Micro-mapping of the site has ensured the retention of many other artefacts. These are juxtaposed with contemporary structures and promenades and softened with rain-gardens planted with indigenous species.There is a purposefully intended 'friction of uses' created by allowing traditional uses such as the fishing fleet and seafood markets to co-exist with the new recreational and retail and residential lands uses. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7594272,
+          -36.8423034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 19,
+        "award": " Urban Design Award",
+        "year": 2012,
+        "tags": "Masterplan, cultural hub, civic precinct",
+        "project": "REVITALISING CENTRAL DANDENONG MASTER PLAN",
+        "address": " ",
+        "designer": "Places Victoria",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.989254,145.205521",
+        "client": "Places Victoria",
+        "contractor": " Taylor Cullity Lethlean, BKK Architects, Aspect & Williams Boag Architects, Urban Initiatives",
+        "description": " Revitalising Central Dandenong masterplan is a 'blue-print' for 7 ha of land in the centre of Dandenong that seeks to create a city centre of significance, an alternative urban centre in the Melbourne's south east. This is a multidisciplinary and comprehensive approach considers all aspects of urban design, from the long term economics of revitalisation and the social dynamics of a city to the reorientation of the street towards pedestrians and the creation of cultural hubs and civic precincts. Importantly, the strategy carefully considers the built form of Dandenong. The strategy is crafted around well designed publications that summarise the strategic context, implementation and delivery for the project and addresses in detail character, open space, street-scapes and built form. Specific design guidelines complete the strategy. The success of the Revitalising Central Dandenong is demonstrated by the transformational projects such as Lonsdale Street. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.205521,
+          -37.989254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 20,
+        "award": " Research And Communications Awards",
+        "year": 2012,
+        "tags": "Garden, museum",
+        "project": "Children's Museum Garden, Museum Victoria",
+        "address": "11 Nicholson St, Carlton VIC 3053",
+        "designer": "Site Office",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.803329,144.972921",
+        "client": "Museum Victoria",
+        "contractor": "",
+        "description": " This is an innovative masterplan for Museum Victoria's children's garden, and collaboration between Museum Victoria and Site Office.The premise of the work is to allow children to 'create their own museum and manage it', fostering an understanding of the world in which they live and a lifelong love for the museum. Various opportunities for the garden are described including eating, gathering, sand play, grassy mound and a ridge line. Within each of these opportunities, learning outcomes are identified along with 'doings' or activities and design opportunities to facilitate these 'doings'. The plan is far more than just a spatial outcome. It delves deeper into the future occupation of the space by children to maximise their opportunity to manipulate and manage the garden and its objects in a self generated and imaginative learning experience. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972921,
+          -37.803329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 21,
+        "award": " National Aila Award - 'the Aila'",
+        "year": 2013,
+        "tags": "Zoo",
+        "project": "Werribee Open Range Zoo.",
+        "address": "K Rd, Werribee South VIC 3030",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.9216001,144.6811454",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6811454,
+          -37.9216001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 22,
+        "award": " Excellence In Design Award",
+        "year": 2013,
+        "tags": "Botanic garden",
+        "project": " Cranbourne Royal Botanic Gardens, Victoria",
+        "address": "Corner of Ballarto Rd & Botanic Drive, Cranbourne VIC 3977",
+        "designer": "Taylor Cullity Lethlean with Paul Thompson",
+        "googlemap_marker": "http://maps.google.com/maps?q=-38.1343286,145.272887",
+        "client": "",
+        "contractor": "",
+        "description": " Australians are surrounded by ocean and ambushed from behind by desert – a war of mystery on two fronts' Lands Edge, Tim Winton. In a former sand quarry, a new botanic garden has been completed, one that allows visitors to follow a metaphorical journey of water through the Australian landscape, from the desert to the coastal fringe.Via the artistry of landscape architecture, this integrated landscape brings together horticulture, architecture, ecology, and art to create the largest botanic garden devoted to Australian flora. It seeks, through the design of themed experiences, to inspire visitors to see our plants in new ways.The completion of the Australian Garden comes at a time when Botanic Gardens world-wide are questioning existing research and recreational paradigms and refocusing anew on messages of landscape conservation and a renewed interest in meaningful visitor engagement. The Australian landscape is embraced or shunned by its people, loved for its sublime beauty or loathed as the cause of hardship. Artists and writers have often been inspired to design or write in response to subtle rhythms, flowing forms and tenacious flora of our landscape. Still others have attempted to order the landscape, and conceive of it as humanly designed form. At the Australian Garden, these tensions are the creative genesis of the design. On the east side of the garden, exhibition gardens, display landscapes, research plots and forestry arrays illustrate our propensity to frame our landscapes in more formal manners, whilst on the west, visitors are subsumed by gardens that are inspired by natural cycles, immersive landscapes and irregular floristic forms. Water plays a mediating role between these two conditions, taking visitors from rockpool escarpments, meandering riverbeds, melaleuca spits and coastal edges. Jury citation. Stage One of the Australian Garden Project in the Cranbourne Botanic Gardens had a deep impact on Botanic Gardens around the world and on our profession in Australia.The challenge of following on from this dramatic start set the bar high for Stage Two. Taylor Cullity Lethlean and Paul Thompson are to be congratulated on the success of the Australian Garden Completion. As Landscape Architects, we will undoubtedly draw inspiration from this garden for many years to come. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.272887,
+          -38.1343286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 23,
+        "award": " Design Award",
+        "year": 2013,
+        "tags": "Historic garden",
+        "project": "  Irving Avenue, Box Hill. Box Hill Gardens",
+        "address": "Box Hill VIC 3128",
+        "designer": "ASPECT Studios (lead consultant), NMBW Architecture, GTA Consultants, Form Structures, Martin Butcher Lighting Design",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8158836,145.1222687",
+        "client": "Whitehorse City Council",
+        "contractor": "",
+        "description": " Box Hill Gardens is a mature historical park within the urban centre of Box Hill, 14 kilometres from central Melbourne. The Box Hill Gardens Master Plan of 2011 proposed a shift in the usability of the park proposing new recreation elements and the rejuvenation of existing park spaces. This is in response to the increasing urban setting of the park and corresponding increase in workers and residents to the area. ASPECT Studios and its design team were commissioned by the City of Whitehorse to create an innovative multi-purpose space with a diverse array of recreation activities and events within the historic and well-loved Box Hill Gardens.Three key concepts have driven the design. Firstly, the creation of a contemporary recreational and events surface, that progresses from the traditional singular-use sports court. The surface functions as a flexible community space, providing courts for multiple sport and recreation activities and areas for public events.Secondly, the recycling and reinterpretation of the former tennis club house and clay courts. Part of the clubhouse has been retained and reused as seating platforms, while recycled bricks from its demolition have been utilised as feature elements within the construction of a new toilet block facility and associated brick platforms. The umpire chair and tennis roller from the previous clay courts have been salvaged and installed as playful remnants of the previous life of the site. Thirdly, the use of colour and graphics to encourage use and activity and to create a distinct surface that differentiates itself from the existing park character. A dynamic and engaging super graphic defines the play areas and creates an iconic and playful destination for the growing community.A 1km long path for walking and running will be added to the space in the near future. The path will circumnavigate the gardens, with the start and finish lines dovetailing into the multi-purpose area. The final design of the space successfully embodies a bold contemporary aesthetic with layers of history and memory, and the careful integration of landscape and built form elements.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1222687,
+          -37.8158836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 24,
+        "award": " Design Award",
+        "year": 2013,
+        "tags": "Skate park",
+        "project": "Rezza – Leamington Street Skate Park-",
+        "address": "73 Leamington Street, Reservoir",
+        "designer": "City of Darebin",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.713602,144.992965",
+        "client": "",
+        "contractor": "",
+        "description": " Leamington Street Skate Park or 'Rezza' as it is known by the locals, is located in an out of the way section of Edwardes Lake Park, Reservoir, on an old tip site sandwiched between an ancient lawn bowls club and cracked clay tennis courts. At first glance the site appears dilapidated, with trees struggling to grow and a sea of undulating asphalt trying to hold back the rubbish and fill buried below like children's toys under a rug.Around mid-2000, Darebin Youth Services designed and implemented, with the local skater and BMX communities a small 'street style' Skate Park on the site, gleaning an old netball court in the corner. The skate park was well loved and valued by the local skaters as it provided a street style course which was seen in contrast to the popular 'bowl' skating of the time. However, the 'cherry' that really made the riders come back for more was the integration of an old-style tram barrier into the park. The bright yellow wedge-like object was unlike anything that had been considered in a skate park before and which made a direct reference to the urbane objects that street skaters appropriated in the 'everyday landscape'. It was this object and this idea of the appropriation of the everyday urban object as skate obstacle that triggered the next incarnation of the skate park. With the increase in riders using the park, so came a desire to expand the park's boundaries. Darebin Youth Services working closely with Council Landscape Architects at the time, plotted the takeover of a further two half netball courts in order to accommodate their plans for expansion. The Youth Services and council landscape architects collaborated, consulting with local youth, skaters and BMX riders to start to develop the ideas of what the extension might look like. Youth Services had a long-standing relationship working with the local skate community and had developed a strong relationship of trust.What came out of this dialogue was that everyone wanted to keep the existing aesthetic of the Rezza Skate Park- keep it rough, keep it dirty and keep it 'ghetto'. The decision to build upon the street style skate park also was a pragmatic one. The fact the site was moving and receding in particular locations due to the unstable subgrade, meant that excavation below 500mm was not possible, so this cancelled out any possibility of building a bowl or even installing large footing required for ramps.The step that followed was to find or design the objects. Youth Services had already gleaned an old steel slide that had been modified by a local steel engineer from a playground. The slide set a precedent for the design approach and confirmation that we could design a skate park from 'found'/ donated urban objects that could be modified into unique skate obstacles. Darebin then engaged Aaron Wallace from Playce to assist the next stage of the design, helping Council staff and the local skaters to develop a wish list of great skate objects and how they would be arranged on site to create a challenging and interesting skate park. Together, a wish list of items was developed, as well as a list of agencies who we thought might have these objects 'lying around'. Council landscape architects then went to work calling Victrack, Vicroads, Yarra Trams to see if they were interested donating some 'left over junk' to the skate park project. Meeting these staff and getting tours of off the track storage facilities in Niddrie and Spotswood on wintery days and having tours of under the Westgate Bridge to find bits of concrete, were all part of the job for council's landscape architects.Arranging cranes to collect the objects, working with skaters and consultants to modify objects and describing to steel engineers the importance of creating steel objects that emulate a sign pole that has been hit by a car and which sticks out at a 45 degree angle were all part of the conversations for months in preparation for the new skate park ('Yes Mick, its called a 'pole jam' and the skaters launch off it. We need it about 1 meter in length, on a 45 degree angle and it needs to be flush with the ground – it needs to look like its coming out of the ground'). Suffice to say, the project was installed with much anticipation, with local skaters breaking in over the steel site fencing every other night to ride each new obstacle as it was installed – sometimes even riding on semi- wet concrete (much to our dismay). The skate park is now complete and has become one of the hottest spots to ride in town, even attracting international pro skaters to this northern pocket of Darebin.The development of this community resource illustrates how skate parks can be used as devices to activate otherwise derelict and undervalued urban spaces. It is this setting that provides a perfect refuge for the local boys and girls to hang out, shoot hoops, and kick a ball and skate without interruption. The site has become an unintentional Youth Precinct.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.992965,
+          -37.713602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 25,
+        "award": " Design Award",
+        "year": 2013,
+        "tags": "Adventurous playground",
+        "project": " The National Arboretum, Pod Playground",
+        "address": " ",
+        "designer": "TCL (Taylor Cullity Lethlean)",
+        "googlemap_marker": "http://maps.google.com/maps?q=-35.2891034,149.0706926",
+        "client": "",
+        "contractor": "",
+        "description": " Australia has a new National Arboretum. Located in Canberra, this important cultural facility is host to 100 forests of rare and endangered trees from around the world. This legacy project with important environmental and conservation messages will live beyond our lifetimes.The opportunity to design a play space as part of the 100 forests facility offered an opportunity to creatively engage children with the beauty of trees and we hope, foster a life-long connection to this remarkable environment. Using the idea of seeds as the beginning life amongst the forest, children and their families can enter a fantasy world of exaggerated scales. A play space with giant acorns floating in the sky, and enormous banksia cones nestled on the forest floor.The design recognises that play is a vital social development and educational tool for children of all ages, and is particularly important when it assists in forming relationships to its landscape, climate and surrounding context. The world amongst the giant seeds aims to stimulate spontaneity and creativity, to foster the imagination and to challenge and encourage confidence with growth. Within the arboretum sits a large copse of cork oaks. This copse was planted in 1917 at the instigation of Walter Burley Griffin and has been periodically harvested for cork ever since. The play space takes inspiration from this forest of oaks and has catapulted their acorns from their forest floor to land atop of a hill, somewhat larger. Here, they rest, taking on anthropomorphic qualities.A combination of Pinus macrocarpus timber battens and red cedar shingles clad a delicate steel finned fame. A clever structural solution put to TCL by Agency of Sculpture during the fabrication process. The toddler play area draws inspiration from our weird and wonderful native flora. Glass reinforced concrete Banksia seed pods rest within a sand pit with banksia seed 'lips' attached to the external forms, inviting children’s curiosity to these strange looking creatures.Here, toddlers are invited to dig, bury and make noise. Bamboo chimes, bongo drums and a thongophone animate the play structures.A large custom designed fishing net and birds nest swings provide elevated views to the broader arboretum, strategically placed adjacent to the Central Valley and in orientation to the Arboretums large sculpture entitled, 'wide brown land'. The playground aims to pursue wonder, imagination and enchantment. It was designed to encourage flexibility and spontaneity in play. The play space challenges the conventional idea of play environments and demonstrates how a play destination can not only meet stringent play standards yet offer a unique play experience for all.It is the result of a brave and trusting client and a collaborative group of designers, artisans, sculptors, fabricators, contractors and play suppliers.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0706926,
+          -35.2891034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 26,
+        "award": " Urban Design Award",
+        "year": 2013,
+        "tags": "Shared use streets, park, transport",
+        "project": " Dandenong Halpin Way, Settlers Square And Pop-up Park",
+        "address": " ",
+        "designer": "ASPECT Studios",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.9890543,145.2108682",
+        "client": "",
+        "contractor": "",
+        "description": " Once a town in its own right, Dandenong has grown to be the second largest urban centre in Melbourne and one of the largest manufacturing regions in Australia. For Dandenong to service the burgeoning population of south-eastern Melbourne, its new character as a highly multicultural hub, and its role as a destination for new industry it needed to undergo intensive rejuvenation. With the centre of Dandenong in transition, Halpin Way and the adjacent public plaza of Settlers Square would be key elements in its larger urban and social transformation.With limited urbanity as context, these two public realms required a timeless design which could act as a place in its own right while devoid of built surrounds, to operate as an activator, attractor and focal public realm to assist in driving development, and act as a catalyst for new built form to be delivered into the future.As lead consultant ASPECT Studios, working collaboratively with a team of artists, architects and engineering consultants, has been involved in the full spectrum of the overall design, from the overall spatial and built form master plan of the precinct, to the design and documentation of the central street and square, lanes, public art and lighting. From the outset, this project focused on the delivery of a one of Australia's first large scale 'shared use' streets – Halpin Way – and working to develop the best shared use street configuration for a complex site,",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2108682,
+          -37.9890543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 27,
+        "award": " Land Management Award",
+        "year": 2013,
+        "tags": "Rehabilitated landscape",
+        "project": " Wanginu Park Ironbark Drive, Sunbury",
+        "address": " ",
+        "designer": "GbLA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.5971873,144.7214508",
+        "client": "",
+        "contractor": "",
+        "description": " Rehabilitation of 13.54 ha of rugged terrestrial landscape and waterway corridor landscape; Protection and enhancement of 2.88 ha of Plains Grassland in four quality classes; Plains Grassland management, enhancement and consolidation; Management and rehabilitation of degraded landscape within a regional residential context; Revegetation offset requirements; Stormwater retention and treatment requirements; 4 years site management. Wanginu Park is situated at the base of a former scoria cone volcano at Places Victoria’s Jacksons Hill Development in Sunbury. GbLA was commissioned by Places Victoria to prepare a landscape masterplan and design documentation and to oversee the preservation, rehabilitation and development of 13.54 ha of rugged landscape. The once heavily degraded site that was utilised for illegal motorcross activities and as a dumping ground for cars, fridges and other rubbish is now a major piece of passive open space that is of great value to the local community and the fauna that utilise the space. The area was set aside by Places Victoria to treat stormwater and protect valuable habitat and archaeological artifacts while meeting Places Victoria’s objectives for vegetation offset management through improvement of Plains Grassland EVC vegetation while providing for recreation and landscape amenity for the local residents of Jacksons Hill. GbLA worked with the former Ecological Engineering and Paroissien Grant and Associates to prepare a rehabilitation strategy for the heavily degraded Harpers Creek that meanders through part of the site and also for the design of a constructed stormwater wetland within difficult terrain. Highly erosive soils, steep terrain up to 1:1 grades, sheer cliff faces and recorded archaeological sites within the project area further added to the challenges of achieving vegetation offset targets, pedestrian access, water quality harvesting and management requirements. The vegetation management and improvement regimes included fencing to exclude grazing, rabbit control programs promoting natural regeneration of the native seed bank, mosaic burning, mulching of extensive areas of woody weeds to provide cover to the existing seed bank, planting of over 200,000 plants, direct seeding 340,000 grass species and ongoing monitoring of the performance of the vegetation. Pedestrian trails, picnic areas and interpretive signage all help to the local community to interact with and appreciate the landscape and historic cultural significance of the site and the local area. The development of a passive circulation trail and interpretive signage strategy, seating and picnic facilities has helped local residents engage with the space and to engender a sense of ownership of a once highly degraded landscape.The rehabilitated landscape also provided new habitat opportunities for local wombats, kangaroos, frogs and bird life, including a wedge tailed eagle that resides in the local area.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7214508,
+          -37.5971873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 28,
+        "award": " State President's Award",
+        "year": 2013,
+        "tags": "Memorial site",
+        "project": " Chadds Creek Road, Strathewen Strathewen Community Bushfire Memorial",
+        "address": " ",
+        "designer": "Urban Initiatives",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.53257,145.267386",
+        "client": "",
+        "contractor": "",
+        "description": " The design of the Strathewen Bushfire memorial was a collaboration between Urban Initiatives and Arterial Design. The intent of the memorial was to capture the many and varied effects of the 2009 Black Saturday Bushfires on Strathewen residents, as well as the surrounding environment. It was to be a place that acknowledged individuals who lost their lives in the fire, as well as telling the story of camaraderie and strength in rebuilding the community after the fires. The challenge was to take visitors on a journey of before, during and after the fire, without them reliving the horror of the event. It was to capture the gravity of the day and the ripple effects on the community, but to be sombre and respectful in its treatment. The memorial sits in a peaceful and tucked away section of public reserve near the recreation reserve which was the central gathering point for the community immediately after the fires. It was designed to fit within the bushland setting with seating for quiet contemplation and reflection. The local provenance planting and materials for the memorial were selected to ensure the memorial has a resonance and timeless quality, which sit firmly within the space and ground on which it is set. The memorial was designed to tell the story to future generations. Constructed from sandstone and slate with concrete and timber seating, the materials were chosen to weather well over time and endure a lifespan of up to 100 years. The design brief was the result of extensive community engagement and from the start of our involvement and collaboration, the community ensured a strong ownership of the project. They were open to the process of telling their stories and we made the commitment to them that every voice would be represented. Arterial worked with the concept of haiku poetry to weave the varying intensities of people’s words into a journey of diverse experiences- heat, wind and fire, loss, grief, rebuilding, joy and friendship. The haiku verses were sandblasted at varying depths into sandstone that become more legible via the shadows that they cast. The juxtaposition of content allows the reader to grab moments of highs and lows without becoming overwhelmed with the enormity of the event. The community expressed a wish for a water element as a symbol of cleansing the soul and nourishing new growth. This inspired the simple concept of water drops in the landscape. Water drops of course create ripples of concentric circles. Circles have no beginning and no end. They represent the cycle of life and of healing. As we got to know the community and they told us their stories, we began to reference the water drops as teardrops. And so developed a simple concept of four tear drops in the landscape radiating ripples out into the surrounding environment. These were carefully sited with a natural cleared area close to, but sufficiently separate from, the recreation reserve. Across 400 pieces of circular sandstone cut to varying radii, there are a total of 10,000 words set within the ground plane. These are arranged within the four circles thereby telling the collective community storey of Strathewen. The memorial is a seamless integration of story and context.The approach path to the memorial contains a ring that references stories of Strathewen before the fire, while moving over the bridge and stream the main central circle tells the story and tragedy of the event. The intensity is focused on the central droplet which is surrounded by a circular bench seat. Embedded within the paving are the names and ages of the 29 community members who perished. Text bands carry stories of broader losses on the outer edge of the central ring and more personal acknowledgements closer to the centre. The visitor journey intensifies toward the centre of the main circle. Brief poems and short memories begin to acknowledge the names of loved ones. In the centre of the main circle lay 29 stainless steel plaques, (surrounding a reflective stainless steel dome), each carrying the name and age of a community member who died in the fires. Amongst those names is Jacinta Bartlett (landscape architect, colleague and former client), her husband Garry and 6 year old daughter Erryn. There is a circular seat defining the inner circle thereby embracing the sacred nature of this central space. The third ring contains messages of thanks for the support that the community received during and after the fire, while the final ring focuses on the future and stories of renewal and recovery. The combination is a very moving and powerful interplay of landscape, story and experience.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.267386,
+          -37.53257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 29,
+        "award": " 2014 Design In Landscape Architecture, Excellence Award",
+        "year": 2014,
+        "tags": "Campus ",
+        "project": "Deakin University, Central Spine Precinct",
+        "address": " ",
+        "designer": "Rush \\ Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8481191,145.1153205",
+        "client": "City of Greater Dandenong and Lyons Architects",
+        "contractor": "",
+        "description": " This remarkable project completed under the Revitalising Central Dandenong urban renewal initiative offers a public square that is truly civic in nature, providing for gatherings, events, diversity, arts and culture. The space could have easily been dominated by the neo brutalist architecture of the Lyons-designed Dandenong Civic Centre and Library adjacent, however the fine grain of its paving design and splashes of intense colour give the square a strong presence that is at once warm and welcoming. The paving motif, done in collaboration with Material Thinking, was created from fabric patterns found around Dandenong and enriches the design with cultural narrative and meaning. In the centre of the square a grid of mature araucarias provide definition and intimacy, and a large public screen ensures a constant sense of activity. The project also provides the missing link in the pedestrian spine connecting Lonsdale Street and Dandenong Station via Halpin Way and Settlers Square. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1153205,
+          -37.8481191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 30,
+        "award": " Design Award",
+        "year": 2014,
+        "tags": "Trail, Mackenzie falls",
+        "project": "MacKenzie Falls Gorge Trail",
+        "address": " ",
+        "designer": "Hansen Partnership",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.110235,142.410044",
+        "client": "Parks Victoria",
+        "contractor": "",
+        "description": " The reconstruction of the MacKenzie Falls trail in Victoria’s Grampians National Park introduces an entirely new and enhanced visitor experience to this spectacular natural landscape. Hansen Partnership conducted extensive surveys of the remote river valley, and with an open brief, they successfully persuaded their client to reconsider the trail’s alignment. The new trail traverses the river through steep and challenging terrain, setting up dramatic spatial sequences that better connect people to this landscape. While unashamedly industrial, the steel bridges and stairs that are bolted into the rock face provide a robust infrastructure that can withstand flooding and fires – both common in the Grampians National Park. Hansen Partnership is to be commended for this bold yet highly site-specific intervention. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.410044,
+          -37.110235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 31,
+        "award": " Design Award",
+        "year": 2014,
+        "tags": "Green parkland, Youth",
+        "project": "Fremantle Esplande Youth Plaza",
+        "address": " ",
+        "designer": "Convic",
+        "googlemap_marker": "http://maps.google.com/maps?q=-32.0584887,115.745717",
+        "client": "City of Fremantle",
+        "contractor": "",
+        "description": " The Fremantle Esplanade Youth Plaza is an excellent example of an integrated landscape project that draws on the history of place and successfully balances youth recreational activities with family space within existing green parkland. Convic have boldly positioned the hard edge skating element as the designs central feature with other activities such as parkour, climbing, basketball and table-tennis all included within this major youth precinct. Surrounding the central spine and cleverly articulated into the existing parkland are the more family friendly areas including sheltered picnic and BBQ facilities, viewing platforms and open green performance areas. Catering to the growing demand for social and urban activities the expanded vision that Convic have bought to the design including its dynamic integration into the surrounding parkland ensures a broad spectrum of community will engage with this space.  The jury found this project to be exemplary as it succeeds in catering for the youth and early adults that are often over looked in our open space planning. This landscape clearly illustrates how landscape architecture can play a significant role in bringing about positive social change. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.745717,
+          -32.0584887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 32,
+        "award": " Design Award",
+        "year": 2014,
+        "tags": "Community hub, precinct",
+        "project": "Afghan Bazaar Cultural Precinct",
+        "address": " ",
+        "designer": "HASSELL/Sinatra Murphy",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.9885322,145.2134837",
+        "client": "",
+        "contractor": " WSP Vision, Aurecon, Aslam Akram",
+        "description": " The design of the Afghan Bazaar Cultural Precinct came as a result of thoughtful engagement with cultural context, history and tradition. It exhibits careful design detailing with a variety of robust materials and finishes and contains strategies for using cultural motifs in a multifaceted way. The result is highly distinctive, with sculpture and the crafting of integrated streetscape elements forming a strong basis for the design. Functionally, the design responds to a variety of user groups and their associated daily activities but it also caters for ephemeral and cyclic cultural events. In many senses this project is collaborative, participatory and responsive – across communities and cultures; between landscape architectural practices; and in association with artists and sculptors. The designers have strived for a meaningful response to social conditions whilst also striving to enhance the visual and tactile experience of an important part of the street environment of the City of Greater Dandenong. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2134837,
+          -37.9885322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 33,
+        "award": " Design Award",
+        "year": 2014,
+        "tags": "Campus ",
+        "project": "Deakin University Central Spine Project",
+        "address": " ",
+        "designer": "Rush \\ Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.847844,145.114873",
+        "client": "Deakin University",
+        "contractor": "",
+        "description": " The Central Spine Precinct at Deakin University is an excellent example of civil landscape design that provides function, cultural interaction and respect for an existing landscape. The landscape statement is bold and competes admirably with the surrounding architecture. The use of structure and line provide a strong anchor and help ground the surrounding buildings into the landscape. The central spine pathway is both functional and versatile; it moves the heavy loads of pedestrian traffic to and from their main points of destination, and it can operate as a plaza /market space when needed. The cleverly designed seats provide intimate meeting place opportunities within a busy precinct. The design respects and reconnects the central water feature done by Mark Baxter of Baxter & Jacobson Architects.  The jury commends this project as it demonstrates an innovative approach to campus design that brings architecture and landscape architecture together and places a high value on the human experience within this precinct. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.114873,
+          -37.847844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 34,
+        "award": " Design Award",
+        "year": 2014,
+        "tags": "Green infrastructure, campus",
+        "project": "Burnley Living Roofs",
+        "address": " ",
+        "designer": "HASSELL",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.829068,145.021637",
+        "client": "The University of Melbourne",
+        "contractor": " Matthew Mackay, Stephen Tan, Aimee Pilven, Pe Yang Teng, Ceara Pimley , Ben Kronenberg, Hojn Rayner, Nick Williams, Claire Farrell, Sue Murphy",
+        "description": " The Burnley living Roofs project is an innovative design that cleverly weaves the layers of research and interpretation into a strikingly bold landscape design. A true collaboration between Hassell and the University of Melbourne that has resulted in a world Class teaching and research facility that clearly demonstrates the importance of green infrastructure on our under-utilised urban surfaces.  The design is dramatic and immediately draws the visitor into the landscape. A superimposed circular walkway manoeuvres you throughout the site revealing its diverse array of plant communities and corresponding soil profiles, seating places and teaching nodes. The project successfully delivers a high quality landscape design that will attract interest and generate dialogue between a diverse group of professionals including the design community,stakeholders in the sustainable development and green infrastructure field and teachers. A project that clearly responds to the brief and promotes green interventions that can help cool the urban environment, reduce energy consumption, mitigate flooding and increase habitats for biodiversity The jury commends this project as it demonstrates an innovative approach to Roof garden design that places a high value on design, research, sustainability and teaching through the direct experience of a garden. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.021637,
+          -37.829068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 35,
+        "award": " Land Management Award",
+        "year": 2014,
+        "tags": "Water sensitive design",
+        "project": "Gum Scrub Creek, Officer",
+        "address": " ",
+        "designer": "Outlines Landscape Architecture",
+        "googlemap_marker": "http://maps.google.com/maps?q=-38.12708282,145.8729095",
+        "client": "Places Victoria",
+        "contractor": " Brown Consulting, Neil Craigie, BIOSIS, Peter Gannon, Melbourne Water, Australian Ecosystems, DEWHA, DEPICRC",
+        "description": " Gum Scrub Creek is a 1km long waterway corridor that exceeds best practice for constructed waterways, delivering crucial future stormwater capacity and environmental and recreational value to the new Officer Township being developed by Places Victoria. Informed by Federal Government legislation the project required extensive collaboration between Places Victoria, Melbourne Water, Cardinia Shire Council, the Monash University Cities as Water Catchment research team - and other stakeholders along with numerous expert consultants to deliver a multifunctional and environmentally sustainable waterway that considers the major urban developments that will follow.  Gum Scrub Creek supports the regeneration of a range of endangered and threatened flora and fauna. Two dedicated Growling Grass Frog ponds were constructed with innovative passive systems for their maintenance. Habitat corridors were designed through plant species selection and planting profiles. The value of delivering the Gum Scrub Creek waterway in advance of the future communities will be born out in the pattern of circulation and recreational use that will be overlaid at a future date hand in hand with established values of this constructed ecology. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8729095,
+          -38.12708282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 36,
+        "award": " People's Choice Award",
+        "year": 2014,
+        "tags": "Trail, Mackenzie Falls",
+        "project": "Mackenzie Falls Gorge Trail",
+        "address": " ",
+        "designer": "Hansen Partnership",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.110785,142.4083149",
+        "client": "Parks Victoria",
+        "contractor": "",
+        "description": " The reconstruction of the MacKenzie Falls trail in Victoria’s Grampians National Park introduces an entirely new and enhanced visitor experience to this spectacular natural landscape. Hansen Partnership conducted extensive surveys of the remote river valley, and with an open brief, they successfully persuaded their client to reconsider the trail’s alignment. The new trail traverses the river through steep and challenging terrain, setting up dramatic spatial sequences that better connect people to this landscape. While unashamedly industrial, the steel bridges and stairs that are bolted into the rock face provide a robust infrastructure that can withstand flooding and fires – both common in the Grampians National Park. Hansen Partnership is to be commended for this bold yet highly site-specific intervention.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.4083149,
+          -37.110785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 37,
+        "award": "",
+        "year": 1876,
+        "tags": "#Water treatment #plant design",
+        "project": "Guilfoyle’s Volcano - Royal Botanic Gardens",
+        "address": "Birdwood Ave, South Yarra, Victoria 3141",
+        "designer": "Royal Botanic Gardens & Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.830369,144.979606",
+        "client": "",
+        "contractor": "",
+        "description": "contemporary project within historic Botanic Gardens spectacular arid planting display water harvesting & treatment",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979606,
+          -37.830369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 38,
+        "award": "",
+        "year": 1850,
+        "tags": "Conservation",
+        "project": "Fern Gully - Royal Botanic Gardens",
+        "address": "Birdwood Ave, South Yarra, Victoria 3141",
+        "designer": "Royal Botanic Gardens & Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.830369,144.979606",
+        "client": "",
+        "contractor": "",
+        "description": "Conservation & education of Victorian ferns, palms & epiphytes",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979606,
+          -37.830369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 39,
+        "award": "",
+        "year": "",
+        "tags": "Nature-based Childrens Play",
+        "project": "The Childrens Garden - Royal Botanic Gardens",
+        "address": "Birdwood Ave, South Yarra, Victoria 3141",
+        "designer": "Royal Botanic Gardens & Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.830369,144.979606",
+        "client": "",
+        "contractor": "",
+        "description": "Interactive educational environment in which children of all ages, backgrounds, physical abilities and cultures can play, explore and discover the natural world. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979606,
+          -37.830369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 40,
+        "award": "",
+        "year": 1996,
+        "tags": "civic space",
+        "project": "Federation Square",
+        "address": "Corner Swanston St & Flinders St, Melbourne VIC 3000",
+        "designer": "Lab Architecture and Bates Smart",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.817979,144.969058",
+        "client": "",
+        "contractor": "",
+        "description": "place for large community events, civic demonstrations & gatherings",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.969058,
+          -37.817979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 41,
+        "award": "",
+        "year": 2008,
+        "tags": "Veggie garden",
+        "project": "Pop Up Patch - Federation Square",
+        "address": "Corner Swanston St & Flinders St, Melbourne VIC 3000",
+        "designer": "The little Patch Co ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.817719,144.971258",
+        "client": "",
+        "contractor": "",
+        "description": "140 do-it-yourself veggie plots housed in individual recycled apple crates – the majority which are leased to the public.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.971258,
+          -37.817719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 42,
+        "award": "",
+        "year": "",
+        "tags": "Community garden",
+        "project": "Veg Out Community Garden",
+        "address": "cnr Shakespeare Grove & Chaucer Street, St Kilda VIC 3182",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.868236,144.977878",
+        "client": "",
+        "contractor": "",
+        "description": "Garden run by volunteers",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.977878,
+          -37.868236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 43,
+        "award": "",
+        "year": "",
+        "tags": "The Yarra River",
+        "project": "Southgate Promenade",
+        "address": " ",
+        "designer": "Tract",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.820423,144.964074",
+        "client": "",
+        "contractor": "",
+        "description": "A new way to see the River: Development on ‘cultural precinct’ in the 1980s Melbourne CBD ‘jumped’ to south side of river for first time Southbank engaged with the Yarra (rather than turning back, which Mel had previously done)",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.964074,
+          -37.820423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 45,
+        "award": "",
+        "year": 2009,
+        "tags": "Roof garden / vertical garden",
+        "project": "Anz Bank, Docklands, Vertical Garden ",
+        "address": "VICTORIA HARBOUR, DOCKLANDS, MELBOURNE",
+        "designer": "Hassell & Fytogreen",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8215103,144.9461663",
+        "client": "ANZ",
+        "contractor": "BOVIS LEND LEASE",
+        "description": "facing Docklands Park. On the outdoor north-east facing area of the ANZ headquarters, a garden fringes the building façade from levels 1 to 3. Native grasses were used in a simple patch-work array. Plants selected were robust and sustainable requiring minimal maintenance.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9461663,
+          -37.8215103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 46,
+        "award": "",
+        "year": "",
+        "tags": "Roof garden / vertical garden",
+        "project": "Totem Poles 60m2",
+        "address": " ",
+        "designer": "SJB Interiors & Fytogreen",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8140129,144.9722673",
+        "client": "AMP Captial / Thinc",
+        "contractor": "Buildcorp Interiors",
+        "description": "Planted 'poles' in an interior space",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9722673,
+          -37.8140129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 47,
+        "award": "",
+        "year": 2002,
+        "tags": "Park - contemporary",
+        "project": "Birrarung Marr ",
+        "address": "Batman Ave, Melbourne VIC 3000",
+        "designer": "City of Melbourne",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8188878,144.9739189",
+        "client": "",
+        "contractor": "",
+        "description": "Melbourne's newest park,. The park incorporates three terraces of contrasting grass and sand.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9739189,
+          -37.8188878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 48,
+        "award": "",
+        "year": 1880,
+        "tags": "Parks & Gardens - historic",
+        "project": "Carlton Gardens ",
+        "address": "1-111 Carlton St, Carlton VIC 3053",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8054312,144.9714124",
+        "client": "",
+        "contractor": "",
+        "description": "Houses the historic Exhibtion Building, and the ultramodern Melbourne Museum",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9714124,
+          -37.8054312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 49,
+        "award": "",
+        "year": "",
+        "tags": "Parks & Gardens - historic",
+        "project": "Fitzroy Gardens",
+        "address": "230-298 Wellington Parade, East Melbourne VIC 3002",
+        "designer": "City of Melbourne",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8129879,144.9802101",
+        "client": "",
+        "contractor": "",
+        "description": "Originally set aside as a reserve in 1848, the layout follows a classic Victorian–era design, featuring pathways lined with magnificent Elm trees, and a variety of flowers, ornamental shrubs and trees which together with extensive lawns create a diverse and layered landscape.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9802101,
+          -37.8129879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 50,
+        "award": "",
+        "year": 2014,
+        "tags": "Parklets",
+        "project": "Richmond Terrace And Docker Street Park ",
+        "address": " ",
+        "designer": "City of Yarra & Simon Ellis",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.822405,144.997272",
+        "client": "",
+        "contractor": "",
+        "description": "Small scale interventions - returning roads to the community 600sqm plaza",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.997272,
+          -37.822405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 51,
+        "award": "",
+        "year": "",
+        "tags": "Community gardens & productive gardens",
+        "project": "Veg Out Community Gardens St Kilda",
+        "address": "cnr Shakespeare Grove & Chaucer Street, St Kilda VIC 3182",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8681005,144.9778716",
+        "client": "",
+        "contractor": "",
+        "description": "organic, chemical free garden run by volunteers ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9778716,
+          -37.8681005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 52,
+        "award": "",
+        "year": "",
+        "tags": "The campus",
+        "project": "Rmit Alumni Courtyard",
+        "address": "124 La Trobe St, Melbourne VIC 3000",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8080391,144.9653998",
+        "client": "RMIT",
+        "contractor": "",
+        "description": "The Alumni courtyard is a large, open outdoor area framed by the bluestone walls of the Old Melbourne Gaol",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9653998,
+          -37.8080391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 53,
+        "award": "",
+        "year": "",
+        "tags": "Sports, Running track",
+        "project": "The Tan",
+        "address": "Birdwood Avenue,  South Yarra 3141 ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8267418,144.9794116",
+        "client": "",
+        "contractor": "",
+        "description": "The Tan was originally a horse track for Melbourne's well-heeled but today is one of Melbourne's most frequented locations. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9794116,
+          -37.8267418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 54,
+        "award": "",
+        "year": "",
+        "tags": "Sports",
+        "project": "Melbourne Eastern Park Plaza / Tennis Centre Precinct",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.821744,144.981638",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.981638,
+          -37.821744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 55,
+        "award": "",
+        "year": "",
+        "tags": "Streetscapes - the Boulvard",
+        "project": "Bourke Street Mall",
+        "address": "310 Bourke Street, Melbourne, 3000",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.814039,144.963334",
+        "client": "",
+        "contractor": "",
+        "description": "integrated public transport & dedicated cycleway",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.963334,
+          -37.814039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 56,
+        "award": "",
+        "year": "",
+        "tags": "Streetscapes - the Boulvard",
+        "project": "St Kilda Boulevard",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8426321,144.9777048",
+        "client": "",
+        "contractor": "",
+        "description": "integrated public transport & dedicated cycleway",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9777048,
+          -37.8426321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 57,
+        "award": "",
+        "year": "",
+        "tags": "Streetscapes - the laneway",
+        "project": "Hosier Lane",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8165452,144.9691634",
+        "client": "",
+        "contractor": "",
+        "description": "graffiti covered walls. Hosier Lane is a bluestone cobbled vehicular and pedestrian laneway on the southern edge of the central city grid of Melbourne, Australia.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9691634,
+          -37.8165452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 58,
+        "award": "",
+        "year": "",
+        "tags": "Private gardens",
+        "project": "Zinc House, Carlton (pending Client Authorisation)",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8148545,144.9716152",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9716152,
+          -37.8148545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 59,
+        "award": "",
+        "year": "",
+        "tags": "Private courtyard",
+        "project": "Bakehouse Recording Studio",
+        "address": "27-29 Hoddle Street, Richmond VIC 3121",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.810743,144.9914808",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9914808,
+          -37.810743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 60,
+        "award": "",
+        "year": "",
+        "tags": "Private greenroof",
+        "project": "Ch2 - Counsil House 2 Green Roof",
+        "address": "218-240 Little Collins St, Melbourne VIC 3000",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8142315,144.9668827",
+        "client": "City of Melbourne",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9668827,
+          -37.8142315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 61,
+        "award": "",
+        "year": "",
+        "tags": "Public facility",
+        "project": "Vca Centre For Ideas. Vca Dodds St Entry ",
+        "address": "Dodds Street Southbank, Melbourne",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.825702,144.968297",
+        "client": "Victorian College of the Arts",
+        "contractor": "",
+        "description": "The landscape for the Centre for Ideas is derived from the spatial experiments of the architect Keith Critchlow, author of the seminal ‘Order in Space’. We have derived a landscape scheme from the nested geometry of a even, regular-sided hexagon and a hexagon with sides of two unequal lengths. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.968297,
+          -37.825702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 62,
+        "award": "",
+        "year": 2015,
+        "tags": "Memorial Palrk",
+        "project": "Shrine Of Remembrance ",
+        "address": "Birdwood Ave, Melbourne VIC 3001",
+        "designer": "ARM Architecture Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.830881,144.973644",
+        "client": "SHRINE OF REMEMBRANCE TRUSTEES",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973644,
+          -37.830881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 63,
+        "award": "",
+        "year": 2008,
+        "tags": "Memorial Park",
+        "project": "Shrine- Cobbers Memorial",
+        "address": "St Kilda Road, Melbourne, Australia",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8305164,144.9734319",
+        "client": "Shrine of Remembrance Trustees",
+        "contractor": "",
+        "description": "The Masterplan identifies the need to strengthen the design of Shrine Reserve landscape as a memorial park and to differentiate the precinct from other parts of the Melbourne Domain which tend towards neutral parkland. The Plan considers the Reserve as a kind of temenos, a constructed landscape setting for a temple, in this case the major Shrine building.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9734319,
+          -37.8305164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 64,
+        "award": "",
+        "year": "",
+        "tags": "Park, Ecology",
+        "project": "Docklands Park, Collins St Docklands",
+        "address": " ",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8208296,144.9479048",
+        "client": "Docklands Authority, VicUrban",
+        "contractor": "",
+        "description": "Docklands Park is an experiment in landscape as infrastructure that seeks to reveal and demonstrate sustainable environmental process in design. This is constructed ecology and the future of landscape architecture in Melbourne.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9479048,
+          -37.8208296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 65,
+        "award": "",
+        "year": 2007,
+        "tags": "Office building",
+        "project": "1010 Latrobe Street Docklands",
+        "address": "Docklands, Victoria",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.814766,144.945295",
+        "client": "",
+        "contractor": "",
+        "description": "1010 LaTrobe Street attempts to strike a balance between the holistic needs of its inhabitants and wider community values. As in any responsible development the principles of Ecological Sustainability impacted on all decisions relating to the design of the building and its operational systems and performance",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.945295,
+          -37.814766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 66,
+        "award": "",
+        "year": "",
+        "tags": "Garden",
+        "project": "Winter Gardens, Allianz Building (upper Level)",
+        "address": " ",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.820459,144.949003",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.949003,
+          -37.820459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 67,
+        "award": "",
+        "year": "",
+        "tags": "Waterfront, yarra river",
+        "project": "Yarra River Promenade, Melbourne Convention Centre ",
+        "address": " ",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.825091,144.952354",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.952354,
+          -37.825091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 68,
+        "award": "",
+        "year": "",
+        "tags": "Commerical property",
+        "project": "435-437 St Kilda Road Commercial Building",
+        "address": "435-437 St Kilda Road ",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.838983,144.977491",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.977491,
+          -37.838983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 69,
+        "award": "",
+        "year": "",
+        "tags": "Olympic park",
+        "project": "Melbourne Olympic Park Stage 1 Olympic Boulevard",
+        "address": "Olympic Blvd, Melbourne VIC 3001",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.821323,144.980199",
+        "client": "State Government of Victoria, Major Projects Victoria, Melbourne & Olympic Parks Trust",
+        "contractor": "Bovis Lend Lease.",
+        "description": "First stage works involved a new access and civic stair to Rod Laver arena, refurbishment of the existing oval, a 4 milion litre rainwater tank and extensive Australian plantings. RWA co-ordinated all external hardscapes and softscapes working closely with other consultants.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.980199,
+          -37.821323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 70,
+        "award": "",
+        "year": 1998,
+        "tags": "Inner city park",
+        "project": "Royal Park Wetland On Oak Street Parkville",
+        "address": " ",
+        "designer": "Rush Wright Associates",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7798336,144.9422944",
+        "client": "City of Melbourne",
+        "contractor": "",
+        "description": "Royal Park is central Melbourne’s largest inner city parks; its size, location and design make a significant contribution to Melbourne’s garden character, sporting heritage and its Victorian legacy",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9422944,
+          -37.7798336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 71,
+        "award": "",
+        "year": "2010-2011",
+        "tags": "Streetscape, transport",
+        "project": "Northcote High Street",
+        "address": " ",
+        "designer": "Outlines LA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7739038,144.9980776",
+        "client": "Darebin City Council / VicRoads / VicTrack / Department of Transport / Northcote Trader's Association / Yarra Trams",
+        "contractor": "",
+        "description": "This flagship project with Darebin City Council, Vicroads and Yarra Trams involves bringing a unique and integrated urban design approach to streetscape improvements and new tram stops along High Street.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9980776,
+          -37.7739038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 72,
+        "award": "",
+        "year": 2013,
+        "tags": "Market",
+        "project": "Camberwell Fresh Food Market",
+        "address": "519-523 Riversdale Rd, Camberwell VIC 3124",
+        "designer": "Outlines LA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.830335,145.057903",
+        "client": "Boroondara City Council",
+        "contractor": "",
+        "description": "Key aspects of the design which included Architecture, landscape, product and graphic design were to strongly express the market character, create an open and inviting place to shop, unite disconnected spaces with a strong identity.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.057903,
+          -37.830335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 73,
+        "award": "",
+        "year": "2010 - 2011",
+        "tags": " Redevelopment, community space",
+        "project": "Gallipoli Park, Marysville",
+        "address": " ",
+        "designer": "Outlines LA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.51269,145.7510673",
+        "client": "Victorian Bushfire Reconstruction and Recovery Authority",
+        "contractor": "Bovis Lend Lease",
+        "description": "This project was driven by the tragic events which lead to the re-development of the site. It is a space designed by the community for the community, and demonstrates a successful collaboration between the designers, facilitators and the community.  ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7510673,
+          -37.51269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 74,
+        "award": "",
+        "year": 2014,
+        "tags": "Retail interior",
+        "project": "H&m Melbourne",
+        "address": "350 Bourke Street, Melbourne VIC 3000",
+        "designer": "Outlines LA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.814107,144.96328",
+        "client": " H&M",
+        "contractor": "",
+        "description": "Design and manage the installation of a unique retail interior, integrating landscape within the historic GPO Building. ",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96328,
+          -37.814107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 75,
+        "award": "",
+        "year": "2009 - 2012",
+        "tags": "Internal courtyard",
+        "project": "Red Cross Blood Service Centre, West Melbourne",
+        "address": "100 - 154 Batman Street, West Melbourne VIC 3003",
+        "designer": "Outlines LA",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.810991,144.948784",
+        "client": "ARCBS",
+        "contractor": "",
+        "description": "The proposed courtyards make use of the remnant carpark ramps within the existing building structure.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.948784,
+          -37.810991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 76,
+        "award": "",
+        "year": " ",
+        "tags": "Memorial park",
+        "project": "Bali Memorial, Lincoln Square, Carlton, Victoria",
+        "address": "Carlton VIC 3053",
+        "designer": "Taylor & Cullity Lethlean",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.802063,144.96285",
+        "client": "City of Melbourne",
+        "contractor": "",
+        "description": "It commemorates the victims of the 2002 Bali bombings.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96285,
+          -37.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 77,
+        "award": "",
+        "year": " ",
+        "tags": "Pedesterian plaza, civic centre",
+        "project": "City Square",
+        "address": "67 Swanston St, Melbourne VIC 3000",
+        "designer": "Urban Initiatives",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.815535,144.966512",
+        "client": "City of Melbourne",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.966512,
+          -37.815535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 78,
+        "award": "",
+        "year": "2012-13",
+        "tags": "Park",
+        "project": "Oxford Street Park",
+        "address": " ",
+        "designer": "Urban Initiatives",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.804688,144.984332",
+        "client": "City of Yarra",
+        "contractor": "",
+        "description": "The park is distinguished by careful detailing of the elevated landscape areas, the bold steel retaining walls, timber deck, stone pavements and customised seating.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.984332,
+          -37.804688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 79,
+        "award": "",
+        "year": "  ",
+        "tags": "Plaza, open space",
+        "project": "Monument Park, Docklands",
+        "address": "21 Newquay Promenade, Docklands VIC 3008",
+        "designer": "HASSELL",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.814162,144.943163",
+        "client": "",
+        "contractor": "",
+        "description": "The former concrete plaza has been transformed into an engaging place for locals and visitors to meet, play, admire the sculptures and linger.",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.943163,
+          -37.814162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 80,
+        "award": "",
+        "year": "",
+        "tags": "",
+        "project": "Etihad Stadium tunnel artwork",
+        "address": "Docklands",
+        "designer": "HASSELL",
+        "googlemap_marker": "",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9475055,
+          -37.8165647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 81,
+        "award": "",
+        "year": "",
+        "tags": "",
+        "project": "Footscray Station",
+        "address": "Thomas Street, Dandenong",
+        "designer": "HASSELL",
+        "googlemap_marker": "",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9016182,
+          -37.8016029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 82,
+        "award": "",
+        "year": "",
+        "tags": "",
+        "project": "State Library Forecourt",
+        "address": "Swanston Street, Melbourne",
+        "designer": "HASSELL",
+        "googlemap_marker": "",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9651897,
+          -37.8098087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 83,
+        "award": "",
+        "year": "",
+        "tags": "",
+        "project": "Sunshine Station and modal interchange",
+        "address": "Footscray",
+        "designer": "HASSELL",
+        "googlemap_marker": "",
+        "client": "",
+        "contractor": "",
+        "description": "",
+        "PROXIMITY TO MPAVILION": "",
+        "WALK": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.832604,
+          -37.7878772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 84,
+        "award": "",
+        "year": 1990,
+        "tags": "WaterTreatment/PlantDesign",
+        "project": "Guilfoyle's Volcano- Royal Botanic Gardens Victoria",
+        "address": "Royal Botanic Gardens Melbourne, Birdwood Avenue, South Yarra VIC 3141, Australia",
+        "designer": "Guilfoyle, RGB, Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8303689,144.9796056",
+        "client": "",
+        "contractor": "",
+        "description": "Contemporary project within historic Botanic Gardens spectacular arid planting display, water harvesting & treatment",
+        "PROXIMITY TO MPAVILION": "1.9 km",
+        "WALK": "ECOLOGY IN THE CITY (environmental remediation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9796056,
+          -37.8303689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 85,
+        "award": "",
+        "year": " ",
+        "tags": "Conservation",
+        "project": "Fern Gully- Royal Botanic Gardens Victoria",
+        "address": "Royal Botanic Gardens Melbourne, Birdwood Avenue, South Yarra VIC 3141, Australia",
+        "designer": "RGB, Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8303689,144.9796056",
+        "client": "",
+        "contractor": "",
+        "description": "Conservation & education of Victorian ferns, palms & epiphytes",
+        "PROXIMITY TO MPAVILION": "1 km",
+        "WALK": "ECOLOGY IN THE CITY (environmental remediation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9796056,
+          -37.8303689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 86,
+        "award": "",
+        "year": 1881,
+        "tags": "Community/ProductiveGardens",
+        "project": "Veg Out Community Gardens St Kilda",
+        "address": "Chaucer Street & Shakespeare Grove, Saint Kilda VIC 3182, Australia",
+        "designer": "Public use space",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8681005,144.9778716",
+        "client": "",
+        "contractor": "",
+        "description": "Weekly farmers markets, community activities and assigned production gardens to members of the community http://vegout.org.au/",
+        "PROXIMITY TO MPAVILION": "5.6 km",
+        "WALK": "ECOLOGY IN THE CITY (environmental remediation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9778716,
+          -37.8681005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 87,
+        "award": "",
+        "year": 2008,
+        "tags": "Community/ProductiveGardens",
+        "project": "Pop Up Patch (Federation Square)",
+        "address": " ",
+        "designer": "The Little Veggie Patch Co ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.817783,144.97088",
+        "client": "",
+        "contractor": "",
+        "description": "Previously an unused car park, this community garden now houses over 140 veggie crates cared for by residents, restaurants and businesses.  PUP hosts community events, kids workshops and educational events and boasts a fantastic view of the city sky line. ",
+        "PROXIMITY TO MPAVILION": "850 m",
+        "WALK": "ECOLOGY IN THE CITY (environmental remediation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97088,
+          -37.817783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 88,
+        "award": "",
+        "year": 2013,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "Burnley Living Roofs",
+        "address": "University of Melbourne, Burnley Campus, 500 Yarra Boulevard, Richmond VIC 3121, Australia",
+        "designer": "HASSELL Landscape Architects ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8291349,145.0222029",
+        "client": "",
+        "contractor": "",
+        "description": "Outdoor educational space where experimental  current research projects are being conducted. Witness experimental growing media tests among many more.  ",
+        "PROXIMITY TO MPAVILION": "5-6 km",
+        "WALK": "ECOLOGY IN THE CITY (environmental remediation)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0222029,
+          -37.8291349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 89,
+        "award": "",
+        "year": 1996,
+        "tags": "CivicSpace",
+        "project": "Federation Square",
+        "address": "Swanston Street & Flinders Street, Melbourne VIC 3000, Australia",
+        "designer": "Lab Architecture, Bates Smart ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8175616,144.9673917",
+        "client": "",
+        "contractor": "",
+        "description": "Place for large community events, civic demonstrations & gatherings http://www.fedsquare.com/",
+        "PROXIMITY TO MPAVILION": "600 m ",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9673917,
+          -37.8175616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 90,
+        "award": "",
+        "year": " ",
+        "tags": "NatureBasedChildren'sPlay",
+        "project": "The Ian Potter Foundation Children's Garden- Royal Botanic Gardens Victoria",
+        "address": "Royal Botanic Gardens Melbourne, Birdwood Avenue, South Yarra VIC 3141, Australia",
+        "designer": "Royal Botanic Gardens Victoria, Andrew Laidlaw",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8303689,144.9796056",
+        "client": "",
+        "contractor": "",
+        "description": "Water play and wetland areas, bamboo forest, the gorge, plant tunnel, kitchen garden and many more opportunities for children to play and learn.   Closed Monday and Tuesday during term time",
+        "PROXIMITY TO MPAVILION": "1.2 km",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9796056,
+          -37.8303689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 91,
+        "award": "",
+        "year": 2003,
+        "tags": "CommemorativeLandscapes",
+        "project": "The Shrine of Remembrance",
+        "address": "Royal Botanic Gardens Melbourne, Birdwood Avenue, South Yarra VIC 3141, Australia",
+        "designer": "ARM Architecture, Rush\\Wright Landscape Architecture ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8303689,144.9796056",
+        "client": "",
+        "contractor": "",
+        "description": "Symbolic and emotive, the theatrette courtyards added to the Shrine of Remembrance are a stunning addition to a significant site. Vast steel and cloth, poppy shaped canopy's shade courtyards with uniform reminiscent camouflage styled paving.  Modern and extremely detailed additions to Melbourne's commemorative shrine, remembering those who served and died in WWI and armed conflicts + peace keeping duties since.",
+        "PROXIMITY TO MPAVILION": "1 km",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9796056,
+          -37.8303689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 92,
+        "award": "",
+        "year": 2014,
+        "tags": "ConvertingStreetstoParks",
+        "project": "Richmond Terrace and Docker Street Park",
+        "address": "Richmond Terrace, Richmond VIC 3121, Australia",
+        "designer": "City of Yarra, Simon Ellis",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8218738,144.9930189",
+        "client": "",
+        "contractor": "",
+        "description": "Small scale interventions- Returning Roads to the Community, 600m2 Plaza",
+        "PROXIMITY TO MPAVILION": "2.8km",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9930189,
+          -37.8218738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 93,
+        "award": "",
+        "year": 2003,
+        "tags": "ConvertingStreetstoParks/ActiveCity",
+        "project": "Burnley Bridge Bouldering",
+        "address": " ",
+        "designer": "Chris Shepard, Parks Victoria  ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8323457,145.0009813",
+        "client": "",
+        "contractor": "",
+        "description": "Open 24/7 and free to all this artificial rock climbing walls hide underneath the City link/ Monash Freeway along the banks of the Yarra. Pet friendly, family friendly and all around friendly it's a great way to spend an active afternoon.  http://www.chockstone.org/Melbourne/BurnleyGuidebook.pdf",
+        "PROXIMITY TO MPAVILION": "3.6km",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0009813,
+          -37.8323457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 94,
+        "award": "",
+        "year": 2015,
+        "tags": "NatureBasedChildren'sPlay",
+        "project": "Return to Royal Park ",
+        "address": " ",
+        "designer": "City of Melbourne",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.795098,144.951607",
+        "client": "",
+        "contractor": "",
+        "description": "This park offers scenic trails, an emphasis on native vegetation, an impressive 2015 playground established on the site of the former Royal Children's Hospital. Connects to the Zoo, Royal Children's Hospital and various sports facilities in the area",
+        "PROXIMITY TO MPAVILION": "4.0 km ",
+        "WALK": "LANDSCAPES FOR CITIZENS - remembrance, recreation, children's spaces, returning space to citizens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.951607,
+          -37.795098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 95,
+        "award": "",
+        "year": 2002,
+        "tags": "ContemporaryPark/IndigenousLandscape",
+        "project": "Birrarung Marr ",
+        "address": "Yarra River, Victoria, Australia",
+        "designer": "City of Melbourne, Ronald Jones, Helena Piha among others including TCL  ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7536764,145.395947",
+        "client": "",
+        "contractor": "",
+        "description": "Contemporary park with  features including art instillations, historic speakers mounds, Art play and iconic bridges connecting the city to the sport precinct.  Connects to the capital city bike trail ",
+        "PROXIMITY TO MPAVILION": "1.1 km",
+        "WALK": "POLITICAL LANDSCAPES (civic demonstration & community events)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.395947,
+          -37.7536764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 96,
+        "award": "",
+        "year": 1996,
+        "tags": "CivilDemonstrations",
+        "project": "Federation Square",
+        "address": "Swanston Street & Flinders Street, Melbourne VIC 3000, Australia",
+        "designer": "Lab Architecture, Bates Smart ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8175616,144.9673917",
+        "client": "",
+        "contractor": "",
+        "description": "Place for large community events, civic demonstrations & gatherings http://www.fedsquare.com/",
+        "PROXIMITY TO MPAVILION": "600 m ",
+        "WALK": "POLITICAL LANDSCAPES (civic demonstration & community events)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9673917,
+          -37.8175616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 97,
+        "award": "",
+        "year": 1856,
+        "tags": "CivilDemonstrations",
+        "project": "Parliament Steps ",
+        "address": " ",
+        "designer": "Peter Kerr, J.G Knight",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8110469,144.973821",
+        "client": "",
+        "contractor": "",
+        "description": "Historic buildings constructed at the height of the gold rush, now these iconic steps are a platform for protests.  Connects to Treasury Gardens ",
+        "PROXIMITY TO MPAVILION": "1.7 km",
+        "WALK": "POLITICAL LANDSCAPES (civic demonstration & community events)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973821,
+          -37.8110469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 98,
+        "award": "",
+        "year": " ",
+        "tags": "SculptureGarden/RoofGarden",
+        "project": "National Gallery Sculpture Garden- Grollo Equiset Garden",
+        "address": " ",
+        "designer": "Various Artists",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8227684,144.9684821",
+        "client": "",
+        "contractor": "",
+        "description": "Includes 'Standing Figure' by Willem de Kooning and as of Summer 2015 will include Architecture commissions by JWA Offers picnic tables and seating and weekly events during summer months. ",
+        "PROXIMITY TO MPAVILION": "290 m ",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9684821,
+          -37.8227684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 99,
+        "award": "",
+        "year": 2002,
+        "tags": "SculptureintheLandscape",
+        "project": "Birrarung Marr",
+        "address": "Yarra River, Victoria, Australia",
+        "designer": "City of Melbourne, Ronald Jones, Helena Piha among others including TCL  ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7536764,145.395947",
+        "client": "",
+        "contractor": "",
+        "description": "Contemporary park with  features including art instillations, historic speakers mounds, Art play and iconic bridges connecting the city to the sport precinct.  Connects to the capital city bike trail ",
+        "PROXIMITY TO MPAVILION": "1.1 km",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.395947,
+          -37.7536764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 100,
+        "award": "",
+        "year": " ",
+        "tags": "",
+        "project": "Monument Park ",
+        "address": "24 NewQuay Promenade, Docklands VIC 3008, Australia",
+        "designer": "Callum Morton, Oculus, McBride Charles Ryan Architects ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.814397,144.942631",
+        "client": "",
+        "contractor": "",
+        "description": "\"Callum Morton, famous for his Eastlink Freeway \"\"Hotel\"\" has created visually stunning interactive sculptures. These tent-like structures offer protection and seating and draw reference to Melbourne's design origins in the Hoddle Grid.  Callum Morton's work is only one artist's among 40 in Docklands. \"",
+        "PROXIMITY TO MPAVILION": "4.2km",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.942631,
+          -37.814397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 101,
+        "award": "",
+        "year": 1980,
+        "tags": "SculptureintheLandscape",
+        "project": "Clement Meadmore 'Dervish'",
+        "address": " ",
+        "designer": "Clement Meadmore ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.819888,144.967144",
+        "client": "",
+        "contractor": "",
+        "description": "Clement Meadmore, originally a Melbourne Man, now works to high acclaim all over the world. Here we see an authentic Australian artist and his work in his home town.  Inspired by 'Whirling dervishes', 'Dervish' draws attraction on the Southbank Boulevard",
+        "PROXIMITY TO MPAVILION": "280 m ",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967144,
+          -37.819888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 102,
+        "award": "",
+        "year": " ",
+        "tags": "TemporaryInstillations/Pop-up",
+        "project": "Hoiser Lane",
+        "address": " ",
+        "designer": "Various Artists",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8165222,144.9691585",
+        "client": "",
+        "contractor": "",
+        "description": "Graffiti covered walls celebrating Melbourne's cultural identity Featuring works from unknown Melbourne teenagers to world renowned street artists",
+        "PROXIMITY TO MPAVILION": "800 m ",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9691585,
+          -37.8165222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 103,
+        "award": "",
+        "year": 2014,
+        "tags": "IntegratedUrbanArt",
+        "project": "New Quay, Docklands",
+        "address": "NewQuay Promenade, Docklands VIC 3008, Australia",
+        "designer": "Tract ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8149611,144.9418673",
+        "client": "",
+        "contractor": "",
+        "description": "New Quay, an exciting and vibrant cosmopolitan public realm connects Docklands to the central CBD. Specifically designed to be a contemporary, art and design themed public space, it is truly a harbour side with a point of difference.  New Quay boasts an array of sculptures including the iconic John Kelly's 'Cow up a tree'",
+        "PROXIMITY TO MPAVILION": "3.2 km",
+        "WALK": "ART IN THE LANDSCAPE & LANDSCAPE AS ART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9418673,
+          -37.8149611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 104,
+        "award": "",
+        "year": 2010,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "ANZ Bank Headquarters",
+        "address": "833 Collins Street, Docklands VIC 3008, Australia",
+        "designer": "HASSELL, Fytogreen ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8215103,144.9461663",
+        "client": "",
+        "contractor": "",
+        "description": "Contemporary vegetated wall, where species create patterns and rainwater is harvested from the roof and carpark  6 Star Green Star rated building focusing on sustainability ",
+        "PROXIMITY TO MPAVILION": "2.7 km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9461663,
+          -37.8215103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 105,
+        "award": "",
+        "year": 2015,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "Collins Place Totem Poles ",
+        "address": " ",
+        "designer": "Buildcorp Interiors, Fytogreen ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8144213,144.9729841",
+        "client": "",
+        "contractor": "",
+        "description": "Eight totem poles, varying from 3-5m with a total of 1320 plants and 18 species achieve a sense of the outdoors in the Collins Place food court ",
+        "PROXIMITY TO MPAVILION": "1.3 km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9729841,
+          -37.8144213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 106,
+        "award": "",
+        "year": 2014,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "Medibank Building, Docklands",
+        "address": "720 Bourke Street, Docklands VIC 3008, Australia",
+        "designer": "HASSELL, Fytogreen ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8180763,144.9496598",
+        "client": "",
+        "contractor": "",
+        "description": "520 Green façade planters covering 16 stories as well as a roof garden. The vertical garden covers an incredible 400m 2",
+        "PROXIMITY TO MPAVILION": "2.6 km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9496598,
+          -37.8180763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 107,
+        "award": "",
+        "year": " ",
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "The Gauge",
+        "address": "825 Bourke Street, Docklands VIC 3008, Australia",
+        "designer": "Mark Paul of The Green Wall Company ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.820203,144.944212",
+        "client": "",
+        "contractor": "",
+        "description": "Interior green wall, spanning 12 m x 6 m and planted with ferns, epiphytes and lithophytes ",
+        "PROXIMITY TO MPAVILION": "3 km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.944212,
+          -37.820203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 108,
+        "award": "",
+        "year": 2010,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "The Triptych Green Wall ",
+        "address": "8/10 Kavanagh Street, Southbank VIC 3006, Australia",
+        "designer": "Fytogreen ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8226145,144.9665785",
+        "client": "",
+        "contractor": "",
+        "description": "206 m2 of hydroponic green wall including over 360 species and a total of 5,958 plants Remains irrigated through collected rainwater ",
+        "PROXIMITY TO MPAVILION": "600 m ",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9665785,
+          -37.8226145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 109,
+        "award": "",
+        "year": 2011,
+        "tags": "RoofGarden/VerticalGarden",
+        "project": "RMIT University Block 21 Green Façade ",
+        "address": "RMIT University - Melbourne Campus, 124 La Trobe Street, Melbourne VIC 3000, Australia",
+        "designer": "RMIT, Peter Elliot Architecture, Urban Design, Rush White Associate, Ronstan Tensile Architecture ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8070901,144.9649695",
+        "client": "",
+        "contractor": "",
+        "description": "A series of planter boxes and a mesh trellis system supporting climbing plants stretching the length of the wall  Built on the face of a 60 brick building in the heart of the RMIT campus and adjacent to the Old Melbourne Goal ",
+        "PROXIMITY TO MPAVILION": "1.7 km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9649695,
+          -37.8070901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 110,
+        "award": "",
+        "year": 2014,
+        "tags": "Parklets",
+        "project": "Richmond Terrace and Docker Street Park",
+        "address": "Richmond Terrace, Richmond VIC 3121, Australia",
+        "designer": "City of Yarra, Simon Ellis ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8218738,144.9930189",
+        "client": "",
+        "contractor": "",
+        "description": "Small scale interventions- Returning Roads to the Community, 600m2 Plaza",
+        "PROXIMITY TO MPAVILION": "2.8km",
+        "WALK": "LANDSCAPE INTERVENTIONS - new opportunities for landscapes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9930189,
+          -37.8218738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 111,
+        "award": "",
+        "year": 2001,
+        "tags": "ParksandGardens-Historic",
+        "project": "Carlton Gardens",
+        "address": " ",
+        "designer": "Edward Latrobe Bateman, Clement Hodgkinson, Taylor Cullity Lethlean, Mary Jeavons",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.801969,144.972",
+        "client": "",
+        "contractor": "",
+        "description": "Include the Royal Exhibition Building, the Melbourne Museum, Imax,  Tennis and Basketball courts, a contemporary children's playground and popular skateboarding destination  World Heritage Site and home of the Melbourne International Flower and Garden Show. Example of Victorian Landscape including European and Australian deciduous trees. ",
+        "PROXIMITY TO MPAVILION": "2.1 km",
+        "WALK": "HISTORIC LANDSCAPES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.972,
+          -37.801969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 112,
+        "award": "",
+        "year": 1848,
+        "tags": "ParksandGardens-Historic",
+        "project": "Fitzroy Gardens",
+        "address": "Wellington Parade & Lansdowne Street, East Melbourne VIC 3002, Australia",
+        "designer": "Clement Hodgkinson ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8155787,144.9773882",
+        "client": "",
+        "contractor": "",
+        "description": "Heritage Listed gardens with significant examples of mature Elm trees. Highlights include Cooks Cottage, the scarred tree; a remnant of the Wurundjeri people who used it's bark in various ways.  Connect to Treasury Gardens and a great example of a Victorian Garden. The tree avenues have been planted to resemble the Union Jack ",
+        "PROXIMITY TO MPAVILION": "1.7 km",
+        "WALK": "HISTORIC LANDSCAPES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9773882,
+          -37.8155787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 113,
+        "award": "",
+        "year": " ",
+        "tags": "ParksandGardens/HistoricSportsGrounds",
+        "project": "Alexandra Gardens and the Riverside Rowing Boat Clubs",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.819514,144.970766",
+        "client": "",
+        "contractor": "",
+        "description": "Melbourne's historic rowing boat sheds sit between Alexandra park and the Yarra River. With over 100 years of history, both Alexandra gardens and the first Henley-on-Yarra were inaugurated in 1094. Since then popular events continue to draw spectators to the banks and bridges of the Yarra.  Events include Moomba Waterfest in March, Bicycle hire and bike path along the Yarra (Connecting to the Yarra River Trail and Capital City Trails ) and a riverside Skate park. The Melbourne University Boat Club is the oldest in Australia, founded in 1859. ",
+        "PROXIMITY TO MPAVILION": "270m ",
+        "WALK": "HISTORIC LANDSCAPES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970766,
+          -37.819514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 114,
+        "award": "",
+        "year": " ",
+        "tags": "ParksandGardens-Historic",
+        "project": "The Tan Track",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.826722,144.976174",
+        "client": "",
+        "contractor": "",
+        "description": "3.84 km track around the perimeter of the Botanical Gardens, affectionately known as The Tan. Originally a horse track it is now a beloved and most frequented location.  Annual events include: Go The Tan, Mothers Day Classic , Victorian Road Runners, Great Strides and other fun runs ",
+        "PROXIMITY TO MPAVILION": "0 km ",
+        "WALK": "HISTORIC LANDSCAPES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976174,
+          -37.826722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 115,
+        "award": "",
+        "year": " ",
+        "tags": "Streetscapes-Boulevard",
+        "project": "St Kilda Foreshore Connections",
+        "address": "Fitzroy Street & Acland Street, Saint Kilda VIC 3182, Australia",
+        "designer": "Tract, City of Port Philip, Jackson Clements Burrows ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8619513,144.973555",
+        "client": "",
+        "contractor": "",
+        "description": "Spanning from St Kilda Foreshore to Brookes Jett, the St Kilda promenade   and connections area is always bustling with activity be it the St Kilda Festival or tourists and locals alike visiting Melbourne's most popular city beach.  Connects to Fitzroy Street, Acland Street and Luna Park. Designed specifically for shared pedestrian, vehicular and bicycle use. Accessed via scenic Albert Park",
+        "PROXIMITY TO MPAVILION": "7.3km",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973555,
+          -37.8619513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 116,
+        "award": "",
+        "year": " ",
+        "tags": "TemporaryInstallations/Pop-up",
+        "project": "Hoiser Lane",
+        "address": " ",
+        "designer": "Various Artists",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8164926,144.9692523",
+        "client": "",
+        "contractor": "",
+        "description": "Graffiti covered walls celebrating Melbourne's cultural identity Featuring works from unknown Melbourne teenagers to world renowned street artists",
+        "PROXIMITY TO MPAVILION": "800 m ",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9692523,
+          -37.8164926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 117,
+        "award": "",
+        "year": " ",
+        "tags": "TheYarraRiver",
+        "project": "From Queensbridge to Morell Bridge",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.819477,144.973094",
+        "client": "",
+        "contractor": "",
+        "description": "The heart of Melbourne's CBD, the Yarra spans the entire stretch of the city and connects to innumerable landmarks This small stretch includes Crown Casino, Bateman Park, the Art Precinct, Birrarung Marr, Royal Botanic Gardens Victoria, The Boat Sheds, Banana Alley to name a few",
+        "PROXIMITY TO MPAVILION": "3km",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.973094,
+          -37.819477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 118,
+        "award": "",
+        "year": 2012,
+        "tags": "StreetscapeTreatment",
+        "project": "Chinatown Revitalization",
+        "address": "Little Bourke Street, Melbourne VIC 3000, Australia",
+        "designer": "Aspect ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8132413,144.9627524",
+        "client": "",
+        "contractor": "",
+        "description": "Following 1850's Gold rush, the influx of Chinese immigrants settled in what is now the iconic 'Chinatown'. Aspect studio revitalized this historic cultural precinct to now include paving, furniture and lighting that solidifies it's status as a 'must visit spot' in Melbourne.  The longest continuous Chinese settlement in the Western world boasts iconic arches and the stunning Tianjin Gardens on Spring Street",
+        "PROXIMITY TO MPAVILION": "1.5 km",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9627524,
+          -37.8132413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 119,
+        "award": "",
+        "year": 2013,
+        "tags": "Streetscapes-Waterfront",
+        "project": "New Quay, Docklands",
+        "address": "NewQuay Promenade, Docklands VIC 3008, Australia",
+        "designer": "Tract ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8149611,144.9418673",
+        "client": "",
+        "contractor": "",
+        "description": "New Quay, an exciting and vibrant cosmopolitan public realm connects Docklands to the central CBD. Specifically designed to be a contemporary, art and design themed public space, it is truly a harbour side with a point of difference.  New Quay boasts an array of sculptures including the iconic John Kelly's 'Cow up a tree'",
+        "PROXIMITY TO MPAVILION": "3.2 km",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9418673,
+          -37.8149611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939394",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 120,
+        "award": "",
+        "year": 2011,
+        "tags": "StreetscapeTreatment",
+        "project": "Northcote Streetscape Masterplan and Route 86 Tram Stop Upgrades",
+        "address": "High Street, Northcote VIC, Australia",
+        "designer": "Outlines ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7739038,144.9980776",
+        "client": "",
+        "contractor": "",
+        "description": "Unique integrated urban design approach to improving Northcote's High Street. The design involved custom shelters, street furniture to highlight the individual character of Northcote. Pedestrian access to public transport and bicycle safety were key elements in the design.  ",
+        "PROXIMITY TO MPAVILION": "6.8 km",
+        "WALK": "THE COGS OF THE CITY / URBAN MECHANICS (moving people - tram / bus / bike / car / walk / boat)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9980776,
+          -37.7739038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939395",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 121,
+        "award": "",
+        "year": " ",
+        "tags": "ParksandGardens-Historic",
+        "project": "The Tan Track",
+        "address": " ",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.826722,144.976174",
+        "client": "",
+        "contractor": "",
+        "description": "3.84 km track around the perimeter of the Botanical Gardens, affectionately known as The Tan. Originally a horse track it is now a beloved and most frequented location.  Annual events include: Go The Tan, Mothers Day Classic , Victorian Road Runners, Great Strides and other fun runs ",
+        "PROXIMITY TO MPAVILION": "0 km ",
+        "WALK": "A SPORTING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976174,
+          -37.826722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939396",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 122,
+        "award": "",
+        "year": 2013,
+        "tags": "MelbourneSportsPrecinct",
+        "project": "Olympic Park Redevelopment",
+        "address": " ",
+        "designer": "Tract ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.823222,144.979803",
+        "client": "",
+        "contractor": "",
+        "description": "This area sports non stop activity through out the year. From the Melbourne Open to Football games every weekend countless spectators arrive to cheer on their favourite athletes Melbourne Sports Precinct includes: Rod Laver Arena, AAMI Park, Hisense Arena, Melbourne Park, MCA, MCG and Olympic Park and Gosch's Paddock's ovals ",
+        "PROXIMITY TO MPAVILION": "1 km",
+        "WALK": "A SPORTING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979803,
+          -37.823222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939397",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 123,
+        "award": "",
+        "year": 2013,
+        "tags": "MelbourneSportsPrecinct",
+        "project": "Melbourne Park Eastern Plaza",
+        "address": " ",
+        "designer": "Tract ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.823222,144.979803",
+        "client": "",
+        "contractor": "",
+        "description": "This area sports non stop activity through out the year. From the Melbourne Open to Football games every weekend countless spectators arrive to cheer on their favourite athletes Melbourne Sports Precinct includes: Rod Laver Arena, AAMI Park, Hisense Arena, Melbourne Park, MCA, MCG and Olympic Park and Gosch's Paddock's ovals ",
+        "PROXIMITY TO MPAVILION": "1 km",
+        "WALK": "A SPORTING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.979803,
+          -37.823222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939398",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 124,
+        "award": "",
+        "year": " ",
+        "tags": "HistoricalSportsGrounds",
+        "project": "Albert Park ",
+        "address": "Lakeside Drive, Albert Park VIC 3206, Australia",
+        "designer": "",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8493668,144.97685",
+        "client": "",
+        "contractor": "",
+        "description": "Historically a chariot racing track and swamp, Albert Park is now home of the Melbourne Gran Prix, Albert Park Gold Course, Melbourne Sports and Aquatic Centre, various sports grounds and lake activities, Albert Park is arguably one of the most active spaces in Melbourne.  Rowing and sailing boat hire as well as fishing and bird watching are encourage on the lake. Walk around the perimeter or join the Parkrun events held every Saturday at 8am for a 5km lap of the beautiful lake.  ",
+        "PROXIMITY TO MPAVILION": "2.5km",
+        "WALK": "A SPORTING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.97685,
+          -37.8493668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939399",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 125,
+        "award": "",
+        "year": 2012,
+        "tags": "SportsGroundandCommunityPark",
+        "project": "Victoria Park, Collingwood ",
+        "address": " ",
+        "designer": "Aspect ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.7982664,144.9966808",
+        "client": "",
+        "contractor": "",
+        "description": "Built in the 1890's this oval is Victorian Heritage Listed and underwent refurbishment in 2010 transforming it into a major community recreation space.  It now hosts plazas and barbeques as well as being a free  VFL ground",
+        "PROXIMITY TO MPAVILION": "4.7 km",
+        "WALK": "A SPORTING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9966808,
+          -37.7982664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 126,
+        "award": "",
+        "year": " ",
+        "tags": "YarraRiver",
+        "project": "Southgate Promenade",
+        "address": "Southgate Avenue, Southbank VIC 3006, Australia",
+        "designer": "Tract",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.8211383,144.965559",
+        "client": "",
+        "contractor": "",
+        "description": " A new way to see the River: Development on ‘cultural precinct’ in the 1980's Melbourne CBD ‘jumped’ to south side of river for first time. Southbank engaged with the Yarra Home to sculptures, buskers, restaurants and constant activity Southbank  connects the city to the casino and aquarium ",
+        "PROXIMITY TO MPAVILION": "650 m ",
+        "WALK": "MISCELLANEOUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965559,
+          -37.8211383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#939393",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "PK": 127,
+        "award": "",
+        "year": 1999,
+        "tags": "Campus",
+        "project": "RMIT Urban Spaces",
+        "address": " ",
+        "designer": "Peter Elliot Architecture, Urban Design ",
+        "googlemap_marker": "http://maps.google.com/maps?q=-37.807514,144.965018",
+        "client": "",
+        "contractor": "",
+        "description": "Redesigning some of Melbourne's oldest courtyards, Peter Elliot adapted these public spaces to cater to students and visitors alike. Explore the hidden courtyards behind the bluestone walls of Old Melbourne Goal, previously home to Ned Kelly.    These spaces are used for events, exhibitions or a daily coffee break for RMIT students and visitors. Visit the Goal Museum while in the vicinity. ",
+        "PROXIMITY TO MPAVILION": "1.9 km",
+        "WALK": "MISCELLANEOUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.965018,
+          -37.807514
+        ]
+      }
+    }
+  ]
+}
