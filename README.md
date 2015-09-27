@@ -3,8 +3,6 @@ GeoJSON data for The Journey 15 map
 
 Instructions
 ---
-To edit this GeoJSON data, use [geojson.io](http://geojson.io) and commit your changes to this GitHub repository.
+To edit this GeoJSON data, please fork this repository, then use [geojson.io](http://geojson.io) to open the data in your fork and commit your changes to a new file `thejourney15_revision_insertyourveresionnumberhere`.
 
-Access
----
-Email veronica@xime.com.au
+When you are ready to merge your changes, submit a pull request to aila-vic.
